@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Initialize the Mistral-based LLM
 class MistralLLM:
-    def __init__(self, base_url="http://localhost:1234/v1", model="TheBloke/Mistral-7B-Instruct-v0.1-GGUF", api_key="lm-studio"):
+    def __init__(self, base_url="http://localhost:1234/v1", model="TheBloke/Mistral-7B-Instruct-v0.1-GGUF", api_key="API_KEY"): # Chnage to LM studio API Key
         self.client = OpenAI(base_url=base_url, api_key=api_key)
         self.model = model
 
