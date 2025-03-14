@@ -5,7 +5,7 @@ The security **checklist is fully customizable** and can be updated or changed t
 Installation & Setup:
 
 1️⃣ Clone the Repository:
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ARES-RAG-Agent.git
+   git clone https://github.com/X3-Security/ARES-RAG-AGENT.git
    cd ARES-RAG-Agent
 
 2️⃣ Install Dependencies:
